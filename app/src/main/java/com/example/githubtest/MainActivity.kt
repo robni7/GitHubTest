@@ -24,3 +24,5 @@ class MainActivity : AppCompatActivity() {
         navView.setupWithNavController(navController)
     }
 }
+
+// Dit is een testbericht om de verbinding te controleren.
